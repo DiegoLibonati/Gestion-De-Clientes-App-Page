@@ -42,3 +42,8 @@ I made a web application and its rest api to manage customers. Through different
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Gestion%20de%20Clientes%20app%20page`
 
 ## Video
+
+
+
+https://user-images.githubusercontent.com/99032604/199856418-599b8ed5-802a-42fb-acdd-52d7a7da0249.mp4
+
