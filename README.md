@@ -39,7 +39,7 @@ I made a web application and its rest api to manage customers. Through different
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Gestion%20de%20Clientes%20app%20page`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Gestion%20De%20Clientes%20App%20Page`
 
 ## Video
 
